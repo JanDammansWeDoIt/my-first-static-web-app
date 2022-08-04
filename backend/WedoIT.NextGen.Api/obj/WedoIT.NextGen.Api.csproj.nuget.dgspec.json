@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Api/WedoIT.NextGen.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Api/WedoIT.NextGen.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Api/WedoIT.NextGen.Api.csproj",
+        "projectName": "WedoIT.NextGen.Api",
+        "projectPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Api/WedoIT.NextGen.Api.csproj",
+        "packagesPath": "/Users/jandammans/.nuget/packages/",
+        "outputPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jandammans/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/WedoIT.NextGen.Data.csproj": {
+                "projectPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/WedoIT.NextGen.Data.csproj"
+              },
+              "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/WedoIT.NextGen.Service.csproj": {
+                "projectPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/WedoIT.NextGen.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Collection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2022.1.0, )"
+            },
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[4.2.9, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.ApplicationInsights": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/WedoIT.NextGen.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/WedoIT.NextGen.Data.csproj",
+        "projectName": "WedoIT.NextGen.Data",
+        "projectPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/WedoIT.NextGen.Data.csproj",
+        "packagesPath": "/Users/jandammans/.nuget/packages/",
+        "outputPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jandammans/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/WedoIT.NextGen.Domain.csproj": {
+                "projectPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/WedoIT.NextGen.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/WedoIT.NextGen.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/WedoIT.NextGen.Domain.csproj",
+        "projectName": "WedoIT.NextGen.Domain",
+        "projectPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/WedoIT.NextGen.Domain.csproj",
+        "packagesPath": "/Users/jandammans/.nuget/packages/",
+        "outputPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jandammans/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/WedoIT.NextGen.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/WedoIT.NextGen.Service.csproj",
+        "projectName": "WedoIT.NextGen.Service",
+        "projectPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/WedoIT.NextGen.Service.csproj",
+        "packagesPath": "/Users/jandammans/.nuget/packages/",
+        "outputPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jandammans/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/WedoIT.NextGen.Data.csproj": {
+                "projectPath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/WedoIT.NextGen.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[4.2.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

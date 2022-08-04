@@ -1,0 +1,17 @@
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/bin/Debug/net6.0/WedoIT.NextGen.Data.deps.json
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/bin/Debug/net6.0/WedoIT.NextGen.Data.runtimeconfig.json
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/bin/Debug/net6.0/WedoIT.NextGen.Data.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/bin/Debug/net6.0/WedoIT.NextGen.Data.pdb
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/bin/Debug/net6.0/WedoIT.NextGen.Domain.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/bin/Debug/net6.0/WedoIT.NextGen.Domain.pdb
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/WedoIT.NextGen.Data.csproj.AssemblyReference.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/WedoIT.NextGen.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/WedoIT.NextGen.Data.AssemblyInfoInputs.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/WedoIT.NextGen.Data.AssemblyInfo.cs
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/WedoIT.NextGen.Data.csproj.CoreCompileInputs.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/WedoIT.NextGen.Data.csproj.CopyComplete
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/WedoIT.NextGen.Data.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/refint/WedoIT.NextGen.Data.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/WedoIT.NextGen.Data.pdb
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/WedoIT.NextGen.Data.genruntimeconfig.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Data/obj/Debug/net6.0/ref/WedoIT.NextGen.Data.dll

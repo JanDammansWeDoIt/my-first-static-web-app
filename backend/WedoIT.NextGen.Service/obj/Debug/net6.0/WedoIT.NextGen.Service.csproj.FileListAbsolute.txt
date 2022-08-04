@@ -1,0 +1,17 @@
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/bin/Debug/net6.0/WedoIT.NextGen.Service.deps.json
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/bin/Debug/net6.0/WedoIT.NextGen.Service.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/bin/Debug/net6.0/WedoIT.NextGen.Service.pdb
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/bin/Debug/net6.0/WedoIT.NextGen.Data.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/bin/Debug/net6.0/WedoIT.NextGen.Domain.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/bin/Debug/net6.0/WedoIT.NextGen.Data.pdb
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/bin/Debug/net6.0/WedoIT.NextGen.Domain.pdb
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/WedoIT.NextGen.Service.csproj.AssemblyReference.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/WedoIT.NextGen.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/WedoIT.NextGen.Service.AssemblyInfoInputs.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/WedoIT.NextGen.Service.AssemblyInfo.cs
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/WedoIT.NextGen.Service.csproj.CoreCompileInputs.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/WedoIT.NextGen.Service.csproj.CopyComplete
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/WedoIT.NextGen.Service.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/refint/WedoIT.NextGen.Service.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/WedoIT.NextGen.Service.pdb
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Service/obj/Debug/net6.0/ref/WedoIT.NextGen.Service.dll

@@ -1,0 +1,12 @@
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/bin/Debug/net6.0/WedoIT.NextGen.Domain.deps.json
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/bin/Debug/net6.0/WedoIT.NextGen.Domain.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/bin/Debug/net6.0/WedoIT.NextGen.Domain.pdb
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/Debug/net6.0/WedoIT.NextGen.Domain.csproj.AssemblyReference.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/Debug/net6.0/WedoIT.NextGen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/Debug/net6.0/WedoIT.NextGen.Domain.AssemblyInfoInputs.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/Debug/net6.0/WedoIT.NextGen.Domain.AssemblyInfo.cs
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/Debug/net6.0/WedoIT.NextGen.Domain.csproj.CoreCompileInputs.cache
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/Debug/net6.0/WedoIT.NextGen.Domain.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/Debug/net6.0/refint/WedoIT.NextGen.Domain.dll
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/Debug/net6.0/WedoIT.NextGen.Domain.pdb
+/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/obj/Debug/net6.0/ref/WedoIT.NextGen.Domain.dll

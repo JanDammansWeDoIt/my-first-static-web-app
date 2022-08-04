@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HvXB39lBAscU8meRVIKAIt/H+SN96vo2pXTbT7arIaA=",
+  "Source": "WedoIT.NextGen.Api",
+  "BasePath": "_content/WedoIT.NextGen.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLLJ1t3/J72E63RxQk/1V1lBO6Jdip3tovVOJYwtVoOSIYQVDrtZ1AlmROc/S69XLccY1c9S9tHHN3VYwohtCw==",
+  "success": true,
+  "projectFilePath": "/Users/jandammans/Documents/GitHub/wdi-nextgen/backend/WedoIT.NextGen.Domain/WedoIT.NextGen.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/jandammans/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/jandammans/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
